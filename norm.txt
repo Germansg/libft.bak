@@ -1,0 +1,268 @@
+Norme: ./norm.txt
+Warning: Not a valid file
+Norme: ./temp/libft.h.gch
+Warning: Not a valid file
+Norme: ./Makefile
+Warning: Not a valid file
+Norme: ./author
+Warning: Not a valid file
+Norme: ./libft.h.gch
+Warning: Not a valid file
+Norme: ./a.out
+Warning: Not a valid file
+Norme: ./ft_strrchr.c
+Error (line 15): Space before function name
+Error (line 27, col 1): missing space after while
+Norme: ./ft_putstr.c
+Norme: ./ft_strcmp.c
+Error: 42 header not at top of the file
+Error (line 8): bad indentation
+Norme: ./ft_memcpy.c
+Error (line 15): declarations in ft_memcpy are bad aligned
+Error (line 18, col 7): srccopy is instanciated during declaration
+Error (line 19, col 7): dstcopy is instanciated during declaration
+Error (line 26): bad indentation
+Error (line 26): spaces at the end of line
+Norme: ./ft_strlcat.c
+Error: 42 header not at top of the file
+Error (line 3): Space before function name
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Error (line 10, col 2): missing space after while
+Error (line 11, col 2): missing space after while
+Error (line 14): bad indentation
+Error (line 19): bad indentation
+Error (line 22): C++ comment
+Error (line 23): C++ comment
+Error (line 24): C++ comment
+Error (line 25): C++ comment
+Error (line 26): C++ comment
+Error (line 27): C++ comment
+Error (line 28): C++ comment
+Error (line 29): C++ comment
+Error (line 30): C++ comment
+Error (line 31): C++ comment
+Error (line 32): C++ comment
+Error (line 33): C++ comment
+Error (line 34): C++ comment
+Error (line 35): C++ comment
+Error (line 36): C++ comment
+Error (line 37): C++ comment
+Norme: ./ft_striter.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Error (line 7): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Norme: ./ft_strncpy.c
+Error (line 17, col 7): bad spacing
+Norme: ./ft_memmove.c
+Error (line 17, col 7): bad spacing
+Error (line 18, col 5): bad spacing
+Error (line 19, col 5): bad spacing
+Error (line 20, col 5): bad spacing
+Error (line 26): Empty line
+Error (line 29): spaces at the end of line
+Error (line 29, col 22): bad character after ;
+Norme: ./ft_isdigit.c
+Norme: ./ft_strsplit.c
+Error (line 20): declarations in ft_wrdcount are bad aligned
+Error (line 41): declarations in ft_chrcount are bad aligned
+Error (line 58): declarations in ft_strsplit are bad aligned
+Norme: ./ft_putnbr.c
+Norme: ./ft_strstr.c
+Error (line 24): bad indentation
+Error (line 28, col 23): space before [
+Norme: ./ft_isupper.c
+Norme: ./temp/ft_strsplit.c
+Warning: /nfs/2017/g/ggladkov/libft/temp/ft_strsplit.c may not compile or is invalid for some reasons.
+Norme: ./ft_memccpy.c
+Error (line 30): C++ comment
+Error (line 31): C++ comment
+Error (line 32): C++ comment
+Error (line 33): C++ comment
+Error (line 34): C++ comment
+Error (line 35): C++ comment
+Error (line 36): C++ comment
+Error (line 37): C++ comment
+Error (line 38): C++ comment
+Norme: ./temp/main.c
+Error: 42 header not at top of the file
+Norme: ./temp/ft_strnew.c
+Warning: /nfs/2017/g/ggladkov/libft/temp/ft_strnew.c may not compile or is invalid for some reasons.
+Norme: ./temp/ft_strstr.c
+Error (line 24): bad indentation
+Error (line 28, col 23): space before [
+Error (line 44): declarations in main are bad aligned
+Error (line 44): declarations must be followed by one empty line in main
+Error (line 46): 3 instructions
+Error (line 46): must begin only by tabulations
+Error (line 46): line has 166 characters
+Error (line 46, col 7): haystack is instanciated during declaration
+Norme: ./ft_strdel.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Norme: ./temp/ft_strmapi.c
+Error: 42 header not at top of the file
+Error (line 3): declarations in ft_strmapi are bad aligned
+Error (line 3): Space before function name
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Error (line 11): bad indentation
+Error (line 12): bad indentation
+Error (line 13): bad indentation
+Error (line 14): bad indentation
+Error (line 15): bad indentation
+Error (line 16): bad indentation
+Error (line 17): bad indentation
+Norme: ./ft_memchr.c
+Error (line 15): declarations in ft_memchr are bad aligned
+Norme: ./temp/libft.h
+Error (line 45, col 4): bad spacing
+Norme: ./ft_strsize.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 7): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Norme: ./ft_bzero.c
+Error (line 31): C++ comment
+Error (line 32): C++ comment
+Error (line 33): C++ comment
+Error (line 34): C++ comment
+Error (line 35): C++ comment
+Error (line 36): C++ comment
+Error (line 37): C++ comment
+Error (line 38): C++ comment
+Error (line 39): C++ comment
+Error (line 40): C++ comment
+Norme: ./ft_isalnum.c
+Error (line 17): line has 84 characters
+Norme: ./ft_putstr_fd.c
+Norme: ./ft_toupper.c
+Norme: ./ft_strcpy.c
+Norme: ./ft_strdup.c
+Error (line 26): C++ comment
+Error (line 27): C++ comment
+Error (line 28): C++ comment
+Error (line 29): C++ comment
+Error (line 30): C++ comment
+Error (line 31): C++ comment
+Error (line 32): C++ comment
+Error (line 33): C++ comment
+Error (line 34): C++ comment
+Norme: ./ft_putnbr_fd.c
+Norme: ./ft_striteri.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 7): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Error (line 11): bad indentation
+Error (line 12): bad indentation
+Norme: ./libft.h
+Error (line 49, col 4): bad spacing
+Norme: ./ft_putendl_fd.c
+Norme: ./ft_strmap.c
+Error: 42 header not at top of the file
+Error (line 3): declarations in ft_strmap are bad aligned
+Error (line 3): Space before function name
+Error (line 3, col 5): space after pointer
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Error (line 8): bad indentation
+Error (line 8, col 4): missing space around =
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Error (line 11): bad indentation
+Error (line 12): bad indentation
+Error (line 13): bad indentation
+Error (line 14): bad indentation
+Error (line 15): bad indentation
+Error (line 16): bad indentation
+Error (line 17): bad indentation
+Norme: ./ft_memdel.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 6): bad indentation
+Norme: ./ft_putchar.c
+Norme: ./ft_strnstr.c
+Error: 42 header not at top of the file
+Error (line 3): declarations in ft_strnstr are bad aligned
+Error (line 3): Space before function name
+Error (line 11): bad indentation
+Error (line 17): bad indentation
+Error (line 18): bad indentation
+Error (line 19): bad indentation
+Error (line 20): bad indentation
+Error (line 21): bad indentation
+Error (line 22): bad indentation
+Error (line 23): bad indentation
+Error (line 24): bad indentation
+Norme: ./ft_isascii.c
+Norme: ./ft_strlen.c
+Norme: ./ft_strnew.c
+Error: 42 header not at top of the file
+Error (line 3): Space before function name
+Error (line 5): bad indentation
+Error (line 7): bad indentation
+Error (line 8): bad indentation
+Norme: ./ft_memalloc.c
+Norme: ./ft_putendl.c
+Norme: ./ft_strsub.c
+Norme: ./ft_strncat.c
+Norme: ./ft_strncmp.c
+Norme: ./ft_memcmp.c
+Error (line 15): declarations in ft_memcmp are bad aligned
+Norme: ./ft_strequ.c
+Error (line 22, col 2): missing space after if
+Norme: ./ft_itoa.c
+Norme: ./ft_putchar_fd.c
+Norme: ./ft_strtrim.c
+Error (line 17, col 4): bad spacing
+Error (line 28, col 4): bad spacing
+Norme: ./ft_isalpha.c
+Norme: ./ft_memset.c
+Norme: ./ft_strcat.c
+Norme: ./ft_tolower.c
+Norme: ./ft_strnequ.c
+Error: 42 header not at top of the file
+Error (line 5): bad indentation
+Error (line 7): bad indentation
+Error (line 8): bad indentation
+Error (line 9): bad indentation
+Error (line 10): bad indentation
+Error (line 11): bad indentation
+Error (line 12): bad indentation
+Error (line 13): bad indentation
+Norme: ./ft_strqu.c
+Error: 42 header not at top of the file
+Error (line 6): bad indentation
+Error (line 7): bad indentation
+Error (line 10): spaces at the end of line
+Error (line 11): bad indentation
+Error (line 12): bad indentation
+Error (line 13): bad indentation
+Error (line 19, col 6): str1 is instanciated during declaration
+Error (line 20, col 6): str2 is instanciated during declaration
+Error (line 21, col 6): str3 is instanciated during declaration
+Error (line 24): bad indentation
+Error (line 26): bad indentation
+Error (line 28): bad indentation
+Error (line 30): bad indentation
+Norme: ./ft_strjoin.c
+Norme: ./ft_strclr.c
+Norme: ./ft_atoi.c
+Norme: ./ft_isprint.c
+Norme: ./ft_strmapi.c
+Norme: ./ft_strchr.c
